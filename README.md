@@ -1,5 +1,3 @@
-### Hey! I'm at [@maxmouchet](https://github.com/maxmouchet/) (Maxime Mouchet) 👋
-
 <!--
 **maxmouchet/maxmouchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
